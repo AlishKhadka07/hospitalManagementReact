@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ .css-app-bar button {
+  color: black !important;
+}
+
+.css-slide{
+  /* background-color: aquamarine; */
+  height: 100%;
+}
+.css-slide img{
+  object-fit: cover;
+}
+.css-slide-parent{
+  height: 400px;
+}
